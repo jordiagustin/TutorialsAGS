@@ -606,6 +606,10 @@
         <Number>1</Number>
         <Description>Hall</Description>
       </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>2</Number>
+        <Description>Hall2</Description>
+      </UnloadedRoom>
     </Rooms>
     <GUIs>
       <GUIMain>

@@ -606,6 +606,10 @@
         <Number>1</Number>
         <Description>Hall</Description>
       </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>2</Number>
+        <Description>Hall2</Description>
+      </UnloadedRoom>
     </Rooms>
     <GUIs>
       <GUIMain>
@@ -2777,8 +2781,8 @@ See KeyboardMovement.txt for details.
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <TypeID>1</TypeID>
         <Name xml:space="preserve">Ambient Sound</Name>
+        <TypeID>1</TypeID>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
